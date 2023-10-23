@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil! Eu sou Fábio Turra, um analista de dados apaixonado po
   - Figma
   - Google Sheets
   - Excel
-  - 
+  
 ## Projetos Destacados
 
 1. [Nome do Projeto 1](https://github.com/seuusername/nome-do-projeto-1)
