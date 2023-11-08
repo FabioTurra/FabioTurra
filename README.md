@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil! Eu sou Fábio Turra, um analista de dados apaixonado po
 
 ## Educação
 
-- **Bacharelado em Ciência de Dados**
+- **Graduação em Ciência de Dados**
   - CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER
   - Início/Conclusão: 09/2023 - 03/2026
 
