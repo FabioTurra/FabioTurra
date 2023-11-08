@@ -14,10 +14,13 @@ Bem-vindo ao meu perfil! Eu sou Fábio Turra, um analista de dados apaixonado po
   
 ## Projetos Destacados
 
-1. [Nome do Projeto 1](https://github.com/seuusername/nome-do-projeto-1)
+1. [Análise Exploratória: Fast Food Balaji](https://github.com/FabioTurra/EDA_FastFoodBalaji)
    - Descrição breve e objetivos do projeto.
 
-2. [Nome do Projeto 2](https://github.com/seuusername/nome-do-projeto-2)
+2. [Análise Exploratória: Vendas](https://github.com/FabioTurra/EDA_Vendas)
+   - Descrição breve e objetivos do projeto.
+
+3. [Análise Exploratória: Loggi](https://github.com/FabioTurra/Projeto-EBAC-Analise-Exploratoria)
    - Descrição breve e objetivos do projeto.
 
 ## Educação
