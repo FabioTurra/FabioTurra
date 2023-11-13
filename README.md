@@ -20,10 +20,10 @@ Bem-vindo ao meu perfil! Eu sou Fábio Turra, um analista de dados apaixonado po
    - [Análise Exploratória: Loggi](https://github.com/FabioTurra/Projeto-EBAC-Analise-Exploratoria)
 
 2. ### SQL
-   - Descrição breve e objetivos do projeto.
+   - Em Breve...
 
 3. ### Power BI
-   - Descrição breve e objetivos do projeto.
+   - Em Breve...
 
 ## Educação
 
