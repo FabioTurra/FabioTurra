@@ -18,6 +18,7 @@ Bem-vindo ao meu perfil! Eu sou Fábio Turra, um analista de dados apaixonado po
    - [Análise Exploratória: Fast Food Balaji](https://github.com/FabioTurra/EDA_FastFoodBalaji)
    - [Análise Exploratória: Vendas](https://github.com/FabioTurra/EDA_Vendas)
    - [Análise Exploratória: Loggi](https://github.com/FabioTurra/Projeto-EBAC-Analise-Exploratoria)
+   - [Análise Exploratória: IMDB Filmes e Shows](https://github.com/FabioTurra/EDA_IMDBMoviesAndShows)
 
 2. ### SQL
    - Em Breve...
