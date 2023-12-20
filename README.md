@@ -1,6 +1,6 @@
-# Perfil de Analista de Dados
+# Boas-Vindas
 
-Bem-vindo ao meu perfil! Eu sou Fábio Turra, um analista de dados apaixonado por transformar dados em insights acionáveis. Estou constantemente buscando maneiras de extrair valor dos dados para impulsionar a tomada de decisões informadas.
+Bem-vindo ao meu perfil! Sou Fábio Turra, estudante apaixonado pela arte de analisar dados e extrair informações com números :D
 
 ## Habilidades
 
