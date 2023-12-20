@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil! Sou Fábio Turra, estudante apaixonado pela arte de ana
    - [Análise Exploratória: IMDB Filmes e Shows](https://github.com/FabioTurra/EDA_IMDBMoviesAndShows)
 
 2. ### SQL
-   - Em Breve...
+   - [Análise Exploratória: Recursos Humanos](https://github.com/FabioTurra/EDA_Analise_RH)
 
 3. ### Power BI
    - Em Breve...
