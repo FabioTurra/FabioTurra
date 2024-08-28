@@ -30,7 +30,7 @@ Bem-vindo ao meu perfil! Sou Fábio Turra, estudante apaixonado pela arte de ana
 
 - **Graduação em Ciência de Dados**
   - CENTRO UNIVERSITÁRIO INTERNACIONAL - UNINTER
-  - Início/Conclusão: 09/2023 - 03/2026
+  - Início/Conclusão: 09/2023 - 10/2025
 
 ## Contato
 
