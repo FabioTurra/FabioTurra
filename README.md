@@ -22,7 +22,7 @@ Aqui destacarei meus principais projetos. Espero que goste!
    - [Análise Exploratória: Financial Statements](https://community.cloud.databricks.com/?o=41058796997588#notebook/4475476620039375)
 
   ### Dashboards
-   - [Dashboard de Vendas](https://app.powerbi.com/groups/feae5d78-59b3-45a6-87f8-611419505585/reports/68e421cf-7509-4a8e-ae16-6c9dfe9a4000/52b3ce151f38c8c55f52?experience=power-bi)
+   - [Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiYmUzMTIyZWYtODk5Yi00ZjEwLTkyOWMtOTE2NmNlNTY0NmUwIiwidCI6IjI5ODU4OGViLWVkMTEtNGYwZS05MmU1LWI5ZjlmMmE2NTEzMiJ9)
    - [Dashboard de RH](https://app.powerbi.com/view?r=eyJrIjoiZWU1NzBlOTktZTdlNS00YzhjLWFhNjItYmU4YWUyNWUzMTdkIiwidCI6IjI5ODU4OGViLWVkMTEtNGYwZS05MmU1LWI5ZjlmMmE2NTEzMiJ9)
    - [Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZmNjZDRiZmUtZTViZC00M2I1LThlMTQtZDYyNzM5ZGI4MTg4IiwidCI6IjI5ODU4OGViLWVkMTEtNGYwZS05MmU1LWI5ZjlmMmE2NTEzMiJ9)
 
