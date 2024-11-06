@@ -1,6 +1,7 @@
 # Boas-Vindas
 
 Bem-vindo ao meu perfil! Sou Fábio Turra, estudante apaixonado pela arte de analisar dados e extrair informações com números :D
+Aqui destacarei meus principais projetos. Espero que goste!
 
 ## Habilidades
 
