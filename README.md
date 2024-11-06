@@ -4,27 +4,26 @@ Bem-vindo ao meu perfil! Sou Fábio Turra, estudante apaixonado pela arte de ana
 
 ## Habilidades
 
-- **Linguagens de Programação**:
   - Python
   - Power BI
   - SQL
+  - Databricks
   - Figma
-  - Google Sheets
+  - Google Planilhas
   - Excel
+  - Looker Studio
   
 ## Projetos Destacados
 
-1. ### Python
-   - [Análise Exploratória: Fast Food Balaji](https://github.com/FabioTurra/EDA_FastFoodBalaji)
-   - [Análise Exploratória: Vendas](https://github.com/FabioTurra/EDA_Vendas)
-   - [Análise Exploratória: Loggi](https://github.com/FabioTurra/Projeto-EBAC-Analise-Exploratoria)
-   - [Análise Exploratória: IMDB Filmes e Shows](https://github.com/FabioTurra/EDA_IMDBMoviesAndShows)
+  ### Análises Exploratórias
+   - [Análise Exploratória: Fast Food Balaji](https://community.cloud.databricks.com/?o=41058796997588#notebook/2717551927225190)
+   - [Análise Exploratória: People Analytics](https://community.cloud.databricks.com/?o=41058796997588#notebook/4322163361888454)
+   - [Análise Exploratória: Financial Statements](https://community.cloud.databricks.com/?o=41058796997588#notebook/4475476620039375)
 
-2. ### SQL
-   - [Análise Exploratória: Recursos Humanos](https://github.com/FabioTurra/EDA_Analise_RH)
-
-3. ### Power BI
-   - Em Breve...
+  ### Dashboards
+   - [Dashboard de Vendas](https://app.powerbi.com/groups/feae5d78-59b3-45a6-87f8-611419505585/reports/68e421cf-7509-4a8e-ae16-6c9dfe9a4000/52b3ce151f38c8c55f52?experience=power-bi)
+   - [Dashboard de RH](https://app.powerbi.com/view?r=eyJrIjoiZWU1NzBlOTktZTdlNS00YzhjLWFhNjItYmU4YWUyNWUzMTdkIiwidCI6IjI5ODU4OGViLWVkMTEtNGYwZS05MmU1LWI5ZjlmMmE2NTEzMiJ9)
+   - [Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiZmNjZDRiZmUtZTViZC00M2I1LThlMTQtZDYyNzM5ZGI4MTg4IiwidCI6IjI5ODU4OGViLWVkMTEtNGYwZS05MmU1LWI5ZjlmMmE2NTEzMiJ9)
 
 ## Educação
 
@@ -36,3 +35,4 @@ Bem-vindo ao meu perfil! Sou Fábio Turra, estudante apaixonado pela arte de ana
 
 - Email: fabioturra55@gmail.com
 - LinkedIn: www.linkedin.com/in/fabio-turra
+- Whatsapp: 34992726886
