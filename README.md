@@ -18,7 +18,7 @@ Aqui destacarei meus principais projetos. Espero que goste!
 ## Projetos Destacados
 
   ### Análises Exploratórias
-   - [Análise Exploratória: Fast Food Balaji](https://community.cloud.databricks.com/?o=41058796997588#notebook/2717551927225190)
+   - [Análise Exploratória: Fast Food Balaji](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/41058796997588/2717551927225190/2997851627585052/latest.html)
    - [Análise Exploratória: People Analytics](https://community.cloud.databricks.com/?o=41058796997588#notebook/4322163361888454)
    - [Análise Exploratória: Financial Statements](https://community.cloud.databricks.com/?o=41058796997588#notebook/4475476620039375)
 
