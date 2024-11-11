@@ -19,8 +19,8 @@ Aqui destacarei meus principais projetos. Espero que goste!
 
   ### Análises Exploratórias
    - [Análise Exploratória: Fast Food Balaji](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/41058796997588/2717551927225190/2997851627585052/latest.html)
-   - [Análise Exploratória: People Analytics](https://community.cloud.databricks.com/?o=41058796997588#notebook/4322163361888454)
-   - [Análise Exploratória: Financial Statements](https://community.cloud.databricks.com/?o=41058796997588#notebook/4475476620039375)
+   - [Análise Exploratória: People Analytics](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/41058796997588/4322163361888454/2997851627585052/latest.html)
+   - [Análise Exploratória: Financial Statements](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/41058796997588/4475476620039375/2997851627585052/latest.html)
 
   ### Dashboards
    - [Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiYmUzMTIyZWYtODk5Yi00ZjEwLTkyOWMtOTE2NmNlNTY0NmUwIiwidCI6IjI5ODU4OGViLWVkMTEtNGYwZS05MmU1LWI5ZjlmMmE2NTEzMiJ9)
