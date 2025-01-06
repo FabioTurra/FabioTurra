@@ -1,6 +1,6 @@
 # Boas-Vindas !
 
-Bem-vindo ao meu perfil! Sou Fabio Turra, estudante apaixonado pela arte de analisar dados, extrair informações com números, e o principal, RESOLVER PROBLEMAS :D
+Bem-vindo ao meu perfil! Sou Fabio Turra, estudante apaixonado pela arte de analisar dados, extrair informações com números, e principalmente resolver problemas! :D
 
 Aqui destacarei meus principais projetos. Espero que goste!
 
