@@ -9,6 +9,9 @@ Aqui destacarei meus principais projetos. Espero que goste!
   - Python
   - Power BI
   - SQL
+  - DBT
+  - AWS
+  - GCP
   - Databricks
   - Figma
   - Google Planilhas
